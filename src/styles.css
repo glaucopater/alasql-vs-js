@@ -2,3 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+td,
+th {
+  border: 1px solid #111;
+}
+
+th {
+  background-color: salmon;
+}
